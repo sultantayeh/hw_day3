@@ -1,0 +1,80 @@
+#InnerDivContainer>div
+{
+    float:left;
+    padding-right: 80px;
+
+}
+#InnerDivContainer
+{
+   position: relative;
+   left:35%;
+}
+#Div2Container>div
+{
+    display: flex;
+    padding-top: 40px;
+}
+
+#Line
+{
+    width: 40%; 
+    position: relative;
+    left: 80px;
+}
+
+#FooterImg>img
+{
+    width: 150px;
+    height: 150px;
+}
+#div3
+{
+position: relative;
+left:20%;
+}
+#div3>div
+{
+    float:left;
+    padding-left: 7%;
+    color: white;
+}
+#Div2Container
+{
+    background-color: rgb(255, 255, 255);
+}
+
+body
+{
+    background-color: black;
+}
+
+#HeaderDiv
+{ 
+    color: white;
+    position: relative;
+    left:40%;
+}
+
+#HeaderDiv > div>p
+{ 
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 0px;
+    font-size: 40px;
+}
+
+#HeaderDiv>div
+{
+    float:left;
+}
+ul > li
+{
+    font-size: 20px;
+    float:left;
+    padding-left: 30px;
+}
+
+ul
+{
+    list-style-type: none;
+}
